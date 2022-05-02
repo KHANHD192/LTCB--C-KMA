@@ -1,0 +1,4 @@
+221 2
+MA TRAN A
+MA TRAN B
+22
